@@ -1,0 +1,13 @@
+{
+  "name": "leitor-xml-lote",
+  "version": "1.0.0",
+  "description": "leitor de nf-e em lote",
+  "main": "index.js",
+  "author": "VZiemer",
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "^1.9.0",
+    "xml2js": "^0.4.19",
+    "xmlbuilder": "^12.0.0"
+  }
+}
